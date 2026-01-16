@@ -7,7 +7,7 @@
 ## 👨‍💻 My Role & Responsibility
 **Sole Lead Developer (End-to-End Ownership)**
 
-Fui totalmente responsável por todo o ciclo de desenvolvimento (SDLC) deste produto, atuando com autonomia total:
+Fui totalmente responsável por todo o ciclo de desenvolvimento (SDLC) deste produto, atuando com autonomia:
 
 1.  **Architecture:** Desenhei a estrutura de componentes e o fluxo unidirecional de dados (Vue/Pinia).
 2.  **Engineering:** Implementei o algoritmo de decisão financeira e a interface responsiva.
